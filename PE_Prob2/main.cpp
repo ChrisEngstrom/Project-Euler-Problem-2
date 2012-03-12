@@ -22,7 +22,7 @@ int fibonacci(int numberLimit);
 
 int main() {
 
-    int fibLimit = 0;		// Limit set by user
+    int fibLimit = 0;       // Limit set by user
 
     // Introduce the program and ask the user for the limit
     cout << "This program adds up the even valued terms of the Fibonacci sequence up to a certain number." << endl << endl
